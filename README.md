@@ -14,22 +14,35 @@
         <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="">
     </a>
     <a href="mailto:sheriff14nwamba@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail" alt="">
+        <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=EA4335" alt="">
     </a>
    </p>
    
 ### Languages
-[![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/nathimamba)
-[![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)](https://github.com/nathimamba)
-[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/nathimamba)
-[![Ruby](https://img.shields.io/badge/ruby-white?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/nathimamba)
-[![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=blue)](https://github.com/nathimamba)
+[![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://github.com/nathimamba)
+[![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/nathimamba)
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB)](https://github.com/nathimamba)
+[![Ruby](https://img.shields.io/badge/ruby-white?style=for-the-badge&logo=ruby&logoColor=CC342D)](https://github.com/nathimamba)
+[![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)](https://github.com/nathimamba)
 
 ### Database
-[![SQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=blue)](https://github.com/nathimamba)
-[![POSTgreSQL](https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql&logoColor=blue)](https://github.com/nathimamba)
-[![PHPmyAdmin](https://img.shields.io/badge/phpmyadmin-white?style=for-the-badge&logo=phpmyadmin&logoColor=blue)](https://github.com/nathimamba)
-[![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=green)](https://github.com/nathimamba)
+[![SQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://github.com/nathimamba)
+[![POSTgreSQL](https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://github.com/nathimamba)
+[![PHPmyAdmin](https://img.shields.io/badge/phpmyadmin-white?style=for-the-badge&logo=phpmyadmin&logoColor=777BB4)](https://github.com/nathimamba)
+[![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://github.com/nathimamba)
+
+### Frameworks
+[![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/nathimamba)
+[![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=02569B)](https://github.com/nathimamba)
+
+### Tools and Technologies
+[![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=E34F26)](https://github.com/nathimamba)
+[![CSS](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/nathimamba)
+[![Bootsrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://github.com/nathimamba)
+
+### OS
+[![Windows11](https://img.shields.io/badge/windows11-white?style=for-the-badge&logo=windows11&logoColor=0078D4)](https://github.com/nathimamba)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/nathimamba)
 
 
 
