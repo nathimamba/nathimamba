@@ -13,8 +13,8 @@
     <a href="https://github.com/nathimamba">
         <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="">
     </a>
-    <a href="nkosithigodfreynwamba@outlook.com">
-        <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="">
+    <a href="mailto:sheriff14nwamba@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail" alt="">
     </a>
    </p>
    
