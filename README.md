@@ -46,7 +46,7 @@
 
 ### Others 
 [![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/nathimamba)
-[![Elementor](https://img.shields.io/badge/wordpress-92003B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/nathimamba)
+[![Elementor](https://img.shields.io/badge/elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://github.com/nathimamba)
 
 
 
