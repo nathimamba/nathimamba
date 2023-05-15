@@ -40,6 +40,8 @@
 [![CSS](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/nathimamba)
 [![Bootsrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://github.com/nathimamba)
 [![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032)](https://github.com/nathimamba)
+[![Github](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/nathimamba)
+
 
 
 ### OS
