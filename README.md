@@ -4,7 +4,7 @@
     <b>Welcome to my profile!</b><br><br>
     <i>
         I'm Nkosinathi ~ username(nathimamba).<br>
-        Currently learning to fullstack development with the odin project<br>
+        Currently learning fullstack development with the odin project<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nkosinathi-nwamba-303720191">
