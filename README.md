@@ -19,13 +19,18 @@
    </p>
    
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nathimamba)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nathimamba)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nathimamba)
-[![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/nathimamba)
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=blue)](https://github.com/nathimamba)
+[![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=cplusplus&logoColor=blue)](https://github.com/nathimamba)
+[![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)](https://github.com/nathimamba)
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/nathimamba)
+[![Ruby](https://img.shields.io/badge/ruby-white?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/nathimamba)
+[![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=blue)](https://github.com/nathimamba)
 
 ### Database
+[![SQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=blue)](https://github.com/nathimamba)
+[![POSTgreSQL](https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql&logoColor=blue)](https://github.com/nathimamba)
+[![PHPmyAdmin](https://img.shields.io/badge/phpmyadmin-white?style=for-the-badge&logo=phpmyadmin&logoColor=blue)](https://github.com/nathimamba)
+[![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=green)](https://github.com/nathimamba)
+
 
 
  
