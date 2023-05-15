@@ -44,6 +44,10 @@
 [![Windows11](https://img.shields.io/badge/windows11-white?style=for-the-badge&logo=windows11&logoColor=0078D4)](https://github.com/nathimamba)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/nathimamba)
 
+### Others 
+[![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/nathimamba)
+[![Elementor](https://img.shields.io/badge/wordpress-92003B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/nathimamba)
+
 
 
  
