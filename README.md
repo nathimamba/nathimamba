@@ -13,7 +13,12 @@
     <a href="https://github.com/nathimamba">
         <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="">
     </a>
-
+   </p>
+   
+### Languages
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nathimamba)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nathimamba)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nathimamba)
 
 - 👀 I’m interested in fullstack development and mobile development Javascript, react, react native, flutter,bootstrap,css, c++, nodejs, mongodb, firebase and SQL
 - 🌱 I’m currently learning Fullstack in Javascript via The odin project in react, Javascript, css, html, bootstrap, mongodb 
