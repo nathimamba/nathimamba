@@ -13,6 +13,9 @@
     <a href="https://github.com/nathimamba">
         <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="">
     </a>
+    <a href="nkosithigodfreynwamba@outlook.com">
+        <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="">
+    </a>
    </p>
    
 ### Languages
@@ -22,11 +25,10 @@
 [![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/nathimamba)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=blue)](https://github.com/nathimamba)
 
+### Database
 
-- 👀 I’m interested in fullstack development and mobile development Javascript, react, react native, flutter,bootstrap,css, c++, nodejs, mongodb, firebase and SQL
-- 🌱 I’m currently learning Fullstack in Javascript via The odin project in react, Javascript, css, html, bootstrap, mongodb 
-- 💞️ I’m looking to collaborate on web application and mobile applications 
-- 📫 How to reach me via linked in on Nkosinathi Nwamba or github nathimamba is my username 
+
+ 
 
 <!---
 nathimamba/nathimamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
