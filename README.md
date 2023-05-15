@@ -10,8 +10,8 @@
     <a href="https://www.linkedin.com/in/nkosinathi-nwamba-303720191">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/wervlad">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    <a href="https://github.com/nathimamba">
+        <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" alt="">
     </a>
 
 
