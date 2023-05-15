@@ -48,10 +48,27 @@
 [![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/nathimamba)
 [![Elementor](https://img.shields.io/badge/elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://github.com/nathimamba)
 
+<details>
+    <p align="center">
+        <a href="https://github.com/nathimamba">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathimamba&theme=aura">
+        </a>
+        <a href="https://github.com/nathimamba">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathimamba&theme=aura">
+             <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathimamba&theme=aura">
+        </a>
+         <a href="https://github.com/nathimamba">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathimamba&theme=aura">
+             <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nathimamba&theme=aura&utcOffset=8">
+        </a>
+    </p>
+</details>
 
-
- 
-
+<p align="center">
+  <a href="https://github.com/nathimamba">
+    <img src="https://komarev.com/ghpvc/?username=nathimamba&color=blueviolet&style=flat)" />
+  </a>
+</p>
 <!---
 nathimamba/nathimamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
