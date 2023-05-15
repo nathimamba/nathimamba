@@ -19,6 +19,8 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/nathimamba)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nathimamba)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nathimamba)
+[![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/nathimamba)
+[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=blue)](https://github.com/nathimamba)
 
 
 - 👀 I’m interested in fullstack development and mobile development Javascript, react, react native, flutter,bootstrap,css, c++, nodejs, mongodb, firebase and SQL
