@@ -39,6 +39,8 @@
 [![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=E34F26)](https://github.com/nathimamba)
 [![CSS](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/nathimamba)
 [![Bootsrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://github.com/nathimamba)
+[![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032)](https://github.com/nathimamba)
+
 
 ### OS
 [![Windows11](https://img.shields.io/badge/windows11-white?style=for-the-badge&logo=windows11&logoColor=0078D4)](https://github.com/nathimamba)
