@@ -35,6 +35,10 @@
 ### Frameworks And Libraries 
 [![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/nathimamba)
 [![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=02569B)](https://github.com/nathimamba)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/nathimamba)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/nathimamba)
+
+
 
 ### Tools and Technologies
 [![HTML](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=E34F26)](https://github.com/nathimamba)
@@ -54,6 +58,8 @@
 [![Elementor](https://img.shields.io/badge/elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://github.com/nathimamba)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/nathimamba)
 
+### Runtime Environment
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nathimamba)
 
 <details>
     <p align="center">
