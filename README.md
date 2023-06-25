@@ -58,8 +58,10 @@
 [![Elementor](https://img.shields.io/badge/elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://github.com/nathimamba)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/nathimamba)
 
-### Runtime Environment
+### Runtime Environment & Package Managers
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nathimamba)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/nathimamba)
+
 
 <details>
     <p align="center">
